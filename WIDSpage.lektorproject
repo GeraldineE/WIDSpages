@@ -1,2 +1,8 @@
 [project]
 name = WIDSpage
+
+[project]
+name = WIDSColombia
+url_style = relative
+[servers.ghpages]
+target = ghpages+https://datasciencefem/WIDSpages
